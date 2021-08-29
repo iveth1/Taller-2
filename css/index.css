@@ -1,0 +1,79 @@
+
+.titulo_index {
+    color: purple;
+    text-align: center;
+    display: inline-block;
+    width: 98.2%;
+    margin-top: 0;
+    border: solid 2px;
+    background-color: mistyrose;
+    border-radius: 6px;
+    padding: 10px;
+    box-shadow: 5px 3px rgba(104, 104, 104, 0.37);
+}
+.titulo_intro {
+    align-self: center;
+    display: inline-block;
+    width: 98.2%;
+    margin-top: 0%;
+    background-color:white;
+    border-radius: 4px;
+    padding: 10px;
+}
+.portada {
+    display: compact;
+    margin-top: 0px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    width: 980px;
+    height: 300px;
+}
+#img2 {
+    align-items: center;
+    width: 45%;
+    height: 45%;
+    margin-top: 1%;
+    margin-left:28%;
+    margin-bottom: 1%;
+  
+
+}
+#img3 {
+    align-items: center;
+    width: 50%;
+    height: 60%;
+    margin-top: 1%;
+    margin-left: 45%;
+    margin-bottom: 1%;
+}
+
+p { 
+    margin-right: 5%;
+    margin-top:1%;
+    margin-left: 10%;
+    display: block;
+    color: black;
+    text-align:  justify;
+    
+    text-decoration: none;
+}
+
+.titulo_importancia {
+    align-self: center;
+    display: inline-block;
+    width: 98.2%;
+    margin-top: 1%;
+    background-color: white;
+    border-radius: 4px;
+    padding: 10px;
+}
+.importacia {
+    display:compact;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 5px;
+    width: 980px;
+    height: 400px;
+}
